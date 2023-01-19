@@ -1,4 +1,4 @@
-# Responsive page (JS/CSS/HTML)
+# Responsive page (HTML/CSS)
 
 Responsive web page designed to practice flexible responsive layout
 
